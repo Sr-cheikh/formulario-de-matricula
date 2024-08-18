@@ -1,3 +1,4 @@
+@import url(./fields/index.css);
 form {
   margin-top: 4.8rem;
 }
@@ -5,7 +6,7 @@ form {
 fieldset {
   border: none;
 
-  display: flex;
+  display: grid;
   gap: 2.4rem;
 }
 
