@@ -10,11 +10,11 @@ main{
   overflow: auto;
   padding: 6.4rem;
 
-  &.main-container{
+  & .main-container{
     max-width: 52.8rem;
     margin-left: auto;
   }
-
+  
   & .back{
     display: flex;
     align-items: center;
@@ -32,18 +32,18 @@ aside {
   background-color: var(--surface-secondary);
   padding: 6.4rem;
 
-  &.aside-container{
+  & .aside-container{
     max-width: 49.6rem;
 
-    & > img{
-      margin-top: 0.8rem;
+    & > img {
+      margin-top: 3.2rem;
     }
   }
-
+  
   & h2 {
     font: 600 4.0rem/1.25 var(--font-family);
     margin-bottom: 0.8rem;
-
+    
     & strong{
       color: var(--text-highlight);
     }
