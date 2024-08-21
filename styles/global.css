@@ -30,7 +30,6 @@ body{
 
   font: var(--text);
   color: var(--text-secondary);
-  margin-bottom: 1rem;
 }
 
 h1, h2 {

@@ -30,6 +30,7 @@ main{
 
 aside {
   background-color: var(--surface-secondary);
+  margin-bottom: 2rem;
   padding: 6.4rem;
 
   & .aside-container{
